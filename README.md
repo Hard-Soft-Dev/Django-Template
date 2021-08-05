@@ -1,4 +1,4 @@
-# Django starter
+# Django Template
 
 ##### Clear
 
